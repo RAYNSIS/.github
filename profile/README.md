@@ -5,12 +5,12 @@
   </picture>
 </p>
 
-<p align="center"><b>AI Workforce</b> · Yapay zekâ çalışanı</p>
+<p align="center"><b>AI Workforce</b> · Yapay zekâ çalışanı<br>Uyumaz, yalan söylemez.</p>
 
 ---
 
-**RAYNSIS**, bir çalışanın yaptığı işi günün her saati yapan yapay zekâ sistemleri kurar:
-yazışma, tahsilat takibi, sevkiyat ve sabah raporu.
+**RAYNSIS**, şirketinize kurulan yapay zekâ ekibidir.
+İşi yürütür, para kaybolmadan müdahale eder ve düzeltme ister.
 
 Her kurulum aynı soruyla açılır: bu şirkette para nerede kayboluyor?
 
