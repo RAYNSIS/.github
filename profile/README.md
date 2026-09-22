@@ -5,12 +5,13 @@
   </picture>
 </p>
 
-<p align="center"><b>AI Workforce</b> · Yapay zekâ çalışanı<br>Uyumaz, yalan söylemez.</p>
+<p align="center"><b>AI Workforce</b> · Yapay zekâ çalışanı<br>Uyumaz, kaynaksız konuşmaz.</p>
 
 ---
 
 **RAYNSIS**, şirketinize kurulan yapay zekâ ekibidir.
-İşi yürütür, para kaybolmadan müdahale eder ve düzeltme ister.
+Kasadan para çıkmadan sorar, kayıp olmadan müdahale eder ve düzeltme ister.
+Hatasını gizlemez: bulduğu her hatayı ve aştığı her sınırı size gösterir.
 
 Her kurulum aynı soruyla açılır: bu şirkette para nerede kayboluyor?
 
