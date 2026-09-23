@@ -21,6 +21,6 @@ Her kurulum aynı soruyla açılır: bu şirkette para nerede kayboluyor?
 | **Kontrollü çıktı** | Kontrolden geçmeyen hiçbir çıktı müşteriye gitmez. |
 | **Veri sizde kalır** | Müşteri verisi özel depolarda tutulur; burada yalnız açık kaynak araçlar yayımlanır. |
 
-**Markalar:** LOIRENS AI STUDIO · BULLMENT
+**Görsel stüdyosu:** LOIRENS AI STUDIO
 
 [studio.loirens.com](https://studio.loirens.com) · İstanbul
